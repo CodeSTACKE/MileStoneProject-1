@@ -1,1 +1,2 @@
-# my-html-game
+# MileStone Project 1
+#### Dinosaur Game
